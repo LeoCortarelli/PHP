@@ -1,0 +1,7 @@
+NÃO ESQUECER DE BAIXAR O COMPOSER !!!
+
+SITE PARA PEGAR O BOTÃO GOOGLE
+APIs de Identidade do Google: https://developers.google.com/identity/gsi/web/guides/overview?hl=pt-br
+
+PARA PEGAR AS CREDENCIAIS
+Google Cloud Console: https://console.cloud.google.com/
